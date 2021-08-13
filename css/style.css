@@ -1,55 +1,75 @@
-viesti{
+data{
+    background-color: rgb(73, 63, 47);
+}
+
+
+otsikko{
     display: block;
     margin: 10px;
     padding: 3px;
-    border: 2px dotted black;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    background-color: rgb(214, 197, 160);
+    border: dashed rgb(73, 63, 47) 5px;
+    font-family: Garamond, serif;
+
+}
+
+
+elokuva{
+    display: block;
+    margin: 10px;
+    padding: 3px;
+    background-color: rgb(214, 197, 160);
+    font-family: Garamond, serif;
 }
 nimi{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
-    font-size: 20px;
+    font-size: 35px;
     font-weight: bold;
+    text-align: center;
 }
 ohjaaja{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
+    font-family: Georgia, serif;
     font-size: 20px;
     font-weight: bold;
 }
 
 vuosi{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
+    font-family: Georgia, serif;
     font-size: 20px;
     font-weight: bold;
 }
 genre{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
+    font-family: Georgia, serif;
     font-size: 20px;
     font-weight: bold;
 }
 ika{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
+    font-family: Georgia, serif;
     font-size: 20px;
     font-weight: bold;
 }
 yms{
     display: block;
-    margin: 10px;
+    margin: 0px 10px 0px 10px;
     padding: 3px;
-    border: 1px solid black;
+    font-family: Georgia, serif;
     font-size: 20px;
     font-weight: bold;
 }

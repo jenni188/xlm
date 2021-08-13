@@ -13,7 +13,12 @@ function loadXML(){
 
 function parseXML(xml){
     const elokuva = xml.getElementsByTagName("elokuva");
-    console.log(elokuva);
+    let htmlData = ";"
+
+    for(let i = 0; i < elokuva.length; i++){
+        htmlData += "<h2>" + elokuva[i].getElementsByTagName("genre")[0].childNodes[0].nodeValue + "</h2>";
+        htmlData += "<p>" + elokuva[i].getElementsByTagName("nimi")[0].childNodes[0].nodeValue + "</p>";
+    }
+    document.getElementById("elokuva").innerHTML = htmlData;
 }
 
-b

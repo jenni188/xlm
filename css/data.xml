@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <data>
+<otsikko>Elokuva lista</otsikko>
     <elokuva>
         <nimi>Death Note</nimi>   
         <ohjaaja>Adam Wingard</ohjaaja>
@@ -18,7 +19,10 @@
         <vuosi>2001</vuosi>
         <genre>Fantasia/Seikkailu</genre>
         <ika>12+</ika>
-        <yms>Harry Potter and the Philosopher’s Stone on ensimmäinen elokuva seitsemästä elokuvasta jotka pojauhtuvat J. K. Rowlingin kuuteen Harry Potter romaaniin vuosilta 1997-2007.
+        <yms>Se perustuu J. K. Rowlingin samannimiseen romaaniin vuodelta 1997. 
+        Elokuva on Harry Potter -elokuvasarjan ensimmäinen osa ja sen on käsikirjoittanut Steve Kloves ja tuottanut David Heyman.
+         Sen tarina seuraa Harry Potterin ensimmäistä vuotta Tylypahkan noitien ja velhojen koulussa, 
+        kun hän huomaa olevansa kuuluisa velho
         </yms>     
     </elokuva>
         <elokuva>
