@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<data>
+    <elokuva>
+        <nimi>Death Note</nimi>   
+        <ohjaaja>Adam Wingard</ohjaaja>
+        <vuosi>2017</vuosi>
+        <genre>kauhu/trilleri</genre>
+        <ika>18+</ika>
+        <yms>Seattlessa nuori opiskelija Light Turner saa käsiinsä yliluonnollisen muistikirjan nimeltä Death Note, jolla on voima tappaa kuka tahansa henkilö, jonka nimi on kirjoitettu sen sivuille.
+        Hän päättää koulun cheerleadereihin kuuluvan Mia Suttonin kanssa käyttää muistikirjaa tappaakseen rikollisia ja muuttaakseen maailmaa. 
+        Kaksikko alkaa toteuttaa suunnitelmaansa käyttämällä nimeä ”Kira”, arvoituksellisen ja omalaatuisen etsivän nimeltä L ottaessaa tehtäväkseen löytää ja pysäyttää Kira.
+        </yms>     
+    </elokuva>
+        <elokuva>
+        <nimi>Harry Potter and the Philosopher’s Stone</nimi>   
+        <ohjaaja>Chris Columbus</ohjaaja>
+        <vuosi>2001</vuosi>
+        <genre>Fantasia/Seikkailu</genre>
+        <ika>12+</ika>
+        <yms>Harry Potter and the Philosopher’s Stone on ensimmäinen elokuva seitsemästä elokuvasta jotka pojauhtuvat J. K. Rowlingin kuuteen Harry Potter romaaniin vuosilta 1997-2007.
+        </yms>     
+    </elokuva>
+        <elokuva>
+        <nimi>The Hobbit:The Battle of the Five Armies</nimi>   
+        <ohjaaja>Peter Jackson</ohjaaja>
+        <vuosi>2014</vuosi>
+        <genre>Fantasia/Seikkailu</genre>
+        <ika>12+</ika>
+        <yms>Hobitti – Viiden armeijan taistelu (The Hobbit: The Battle of the Five Armies) on vuonna 2014 ensi-iltansa saanut kolmas ja viimeinen
+         osa Peter Jacksonin ohjaamasta Hobitti-elokuvatrilogiasta, 
+        joka pohjautuu J. R. R. Tolkienin fantasiaromaaniin Hobitti eli sinne ja takaisin.
+         Se on elokuvien Odottamaton matka ja Smaugin autioittama maa jatko-osa. 
+        Kolme elokuvaa yhdessä edeltävät Jacksonin Taru sormusten herrasta -elokuvatrilogiaa.
+        </yms>     
+    </elokuva>
+        <elokuva>
+        <nimi>Twilight – Houkutus</nimi>   
+        <ohjaaja>Catherine Hardwicke</ohjaaja>
+        <vuosi>2008</vuosi>
+        <genre>Romantiikka/Fantasia</genre>
+        <ika>15+</ika>
+        <yms>Twilight – Houkutus perustuu yhdysvaltalaisen kirjailijan Stephenie Meyerin kirjoittaman kirjasarjan ensimmäiseen osaan Houkutus. 
+        Se on Summit Entertainmentin tuottaman Meyerin kirjoihin perustuvan elokuvasarjan ensimmäinen osa, 
+        ja sitä seuraavat vuoden 2009 Twilight – Uusikuu ja vuoden 2010 Twilight – Epäilys.
+        </yms>     
+    </elokuva>
+        <elokuva>
+        <nimi>Howl's Moving Castle</nimi>   
+        <ohjaaja>Hayao Miyazaki</ohjaaja>
+        <vuosi>2004</vuosi>
+        <genre>Fantasia/Seikkailu</genre>
+        <ika>7+</ika>
+        <yms>Liikkuva linna on Studio Ghiblin vuonna 2004 ensi-iltansa saanut animaatioelokuva, joka pohjautuu Diana Wynne Jonesin kirjaan Liikkuva linna.
+         Kehutun ja palkitun elokuvan on ohjannut Hayao Miyazaki. 
+        Se kertoo hattukaupassa työskentelevästä Sophie-tytöstä
+        </yms>     
+    </elokuva>
+</data>
