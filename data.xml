@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<data>
+    <viesti>
+        <nimi>Death Note</nimi>   
+        <ohjaaja>Adam Wingard</ohjaaja>
+        <vuosi>2017</vuosi>
+        <genre>kauhu/trilleri</genre>
+        <ika>18+</ika>
+        <yms>Seattlessa nuori opiskelija Light Turner saa käsiinsä yliluonnollisen muistikirjan nimeltä Death Note, jolla on voima tappaa kuka tahansa henkilö, jonka nimi on kirjoitettu sen sivuille.
+        Hän päättää koulun cheerleadereihin kuuluvan Mia Suttonin kanssa käyttää muistikirjaa tappaakseen rikollisia ja muuttaakseen maailmaa. 
+        Kaksikko alkaa toteuttaa suunnitelmaansa käyttämällä nimeä ”Kira”, arvoituksellisen ja omalaatuisen etsivän nimeltä L ottaessaa tehtäväkseen löytää ja pysäyttää Kira.
+        </yms>     
+    </viesti>
+</data>
