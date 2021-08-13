@@ -22,6 +22,7 @@ elokuva{
     margin: 10px;
     padding: 3px;
     background-color: rgb(214, 197, 160);
+    border: dashed rgb(73, 63, 47) 3px;
     font-family: Garamond, serif;
 }
 nimi{
